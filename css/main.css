@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baumans&display=swap');
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.workoutHeading {
+    font-size: 35px;
+    line-height: 61px;
+    text-align: center;
+}
+
+.first {
+    background-color: #423EF4;
+  
+    position: absolute;
+
+    font-size: 24px;
+    line-height: 152.9%;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.second {
+    background-color:#E5E5E5;
+
+    position: absolute;
+
+    font-size: 24px;
+    line-height: 152.9%;
+    text-align: center;
+
+    color: #000000;
+}
+
+.third {
+    background-color: #423EF4;
+
+    position: absolute;
+
+    font-size: 24px;
+    line-height: 152.9%;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.fourth {
+    background-color: #E02456;
+
+    position: absolute;
+
+    font-size: 24px;
+    line-height: 152.9%;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.fifth {
+    background-color:#E5E5E5;
+
+    position: absolute;
+
+    font-size: 24px;
+    line-height: 152.9%;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.sixth {
+    background-color: #423EF4;
+
+    position: absolute;
+
+    font-size: 24px;
+    line-height: 152.9%;
+    text-align: center;
+
+    color: #FFFFFF;
+}
